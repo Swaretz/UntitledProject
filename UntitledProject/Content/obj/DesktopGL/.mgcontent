@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/black.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/black-red-1.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/black-red-2.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/black-red-3.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/black-red-4.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/black-red-5.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/black-red-6.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/black-red-7.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/black-red-8.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/black-red-9.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/Font.spritefont</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/HighFTree_1.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/HighFTree_2.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/HighFTree_3.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/HighFTree_4.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/Immortal.spritefont</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/LowFTree_1.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/LowFTree_2.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/red.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/Settlement.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/Stones_1.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/Stones_2.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/Stones_3.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/Tree5.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/Tree5x5.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/Tree9x9.png</File>
+    <File>C:/Users/Axel/source/repos/UntitledProject/UntitledProject/Content/white.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
